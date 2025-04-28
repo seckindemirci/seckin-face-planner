@@ -1,5 +1,4 @@
 streamlit
 openai
-reportlab
 Pillow
-opencv-python-headless
+PyMuPDF
